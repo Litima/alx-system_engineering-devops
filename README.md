@@ -1,1 +1,1 @@
-Shell, basics
+Solution to ALX shell basics
